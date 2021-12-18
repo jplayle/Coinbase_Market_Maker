@@ -1,6 +1,6 @@
 # Coinbase_Market_Maker
 
-A simple market making program for the Coinbase Pro exchange. One of the first automated trading algos I wrote and the first one to turn a profit.
+A simple market making program for the Coinbase Pro exchange. One of the first automated trading algos I wrote (circa 2017) and the first one to turn a profit.
 
 Features:
 - Red-black binary tree used for the order book structure.
